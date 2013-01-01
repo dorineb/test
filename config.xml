@@ -3,10 +3,10 @@
         xmlns:gap = "http://phonegap.com/ns/1.0"
         id        = "com.phonegap.iPed"
         version   = "2.0.0">
-    <name>iPed</name>
+    <name>test</name>
 
     <description>
-     iPed
+     test
     </description>
 
     <author href="http://www.rimon.nl" email="dorineb@gmail.com">
